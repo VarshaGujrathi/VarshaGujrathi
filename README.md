@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Varsha 👋
 
-<!--
-**VarshaGujrathi/VarshaGujrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech graduate in **Artificial Intelligence & Data Science**, building **scalable data pipelines and cloud-based data solutions** with AWS.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Building
+- 🔹 Building **scalable data pipelines** using different data engineering architectures and AWS services.
+- 🔹 Exploring **event-driven, batch, and cloud-based data processing**.
+- 🔹 Working on projects involving **data ingestion, transformation, orchestration, and storage**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Big Data & Cloud:** PySpark, Databricks, AWS
+
+### 💼 Open to Opportunities
+I'm open to **Junior Data Engineering / Entry-Level Data Engineering** roles. 
+- 📍 **Preferred Locations:** Pune | Mumbai | Bengaluru (Open to Relocation / Remote)
+
+### 📫 Let's Connect
+- 📧 **Email:** [varshagujrathi14@gmail.com](mailto:varshagujrathi14@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/varsha-gujrathi-6b59a124a](https://www.linkedin.com/in/varsha-gujrathi-6b59a124a)
