@@ -20,6 +20,10 @@ B.Tech graduate in **Artificial Intelligence & Data Science**, building **scalab
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 ### 💼 Open to Opportunities
 I'm open to **Junior Data Engineering / Entry-Level Data Engineering** roles. 
 - 📍 **Preferred Locations:** Pune | Mumbai | Bengaluru (Open to Relocation / Remote)
