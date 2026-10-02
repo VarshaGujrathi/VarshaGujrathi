@@ -7,16 +7,18 @@ B.Tech graduate in **Artificial Intelligence & Data Science**, building **scalab
 - 🔹 Exploring **event-driven, batch, and cloud-based data processing**.
 - 🔹 Working on projects involving **data ingestion, transformation, orchestration, and storage**.
 
-#### 💻 Languages & Frameworks
-![Python](https://shields.io)
-![SQL](https://shields.io)
+### 🛠️ Tech Stack
 
-#### 🚀 Big Data & Processing
-![PySpark](https://shields.io)
-![Databricks](https://shields.io)
+**Languages**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-#### ☁️ Cloud Services
-![AWS](https://shields.io)
+**Big Data & Cloud**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### 💼 Open to Opportunities
 I'm open to **Junior Data Engineering / Entry-Level Data Engineering** roles. 
