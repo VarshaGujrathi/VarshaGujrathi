@@ -3,9 +3,9 @@
 B.Tech graduate in **Artificial Intelligence & Data Science**, building **scalable data pipelines and cloud-based data solutions** with AWS.
 
 ### 🚀 What I'm Building
-- 🔹 Building **scalable data pipelines** using different data engineering architectures and AWS services.
-- 🔹 Exploring **event-driven, batch, and cloud-based data processing**.
-- 🔹 Working on projects involving **data ingestion, transformation, orchestration, and storage**.
+- Building **scalable data pipelines** using different data engineering architectures and AWS services.
+- Exploring **event-driven, batch, and cloud-based data processing**.
+- Working on projects involving **data ingestion, transformation, orchestration, and storage**.
 
 ### 🛠️ Tech Stack
 
